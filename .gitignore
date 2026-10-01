@@ -1,0 +1,19 @@
+# Environnements Python
+.conda/
+env/
+venv/
+
+# Fichiers Python temporaires
+__pycache__/
+*.pyc
+
+# Données
+data/
+
+# Modèles entraînés
+models/
+*.pkl
+*.h5
+
+# Configuration locale VS Code
+.vscode/
